@@ -1,0 +1,6 @@
+*.o
+*~
+test/test_main
+*.DS_Store
+
+
